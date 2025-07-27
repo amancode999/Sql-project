@@ -1,0 +1,2 @@
+# Sql-project
+MINI ONLINE STORE DATABASE
